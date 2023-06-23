@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402658569639",
+    "project_id": "panda-store-7cbe2",
+    "storage_bucket": "panda-store-7cbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402658569639:android:4e8f4694790ca29c1a1a82",
+        "android_client_info": {
+          "package_name": "com.example.panda_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402658569639-usboisic1bm41c0tcm7c6clskppsoq5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcOard3nOwewP4dJO6AGmMuqNwiCAbLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402658569639-usboisic1bm41c0tcm7c6clskppsoq5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
